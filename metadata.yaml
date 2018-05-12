@@ -1,0 +1,31 @@
+_repo: Under-Four-AdministrationsFrom-Cleveland-to-Taft_39144
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39144-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Straus, Oscar S. (Oscar Solomon)
+    alias: Straus, Oscar Solomon
+    birthdate: 1850
+    deathdate: 1926
+    gutenberg_agent_id: '39860'
+    url: http://www.gutenberg.org/2009/agents/39860
+description: ''
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39144'
+  lccn: '22023556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Straus, Oscar S. (Oscar Solomon), 1850-1926'
+- !lcsh 'United States -- Politics and government -- 20th century'
+- !lcc 'E660'
+- !lcsh 'United States -- Politics and government -- 19th century'
+title: "Under Four Administrations, from Cleveland to Taft\r\nRecollections of Oscar\
+  \ S. Straus ..."
+url: http://www.gutenberg.org/ebooks/39144
